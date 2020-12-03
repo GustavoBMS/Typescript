@@ -6,7 +6,7 @@
 * A extensão do Typescript é .ts
 * Caso uma lib não reconheça o .ts por padrão baixe de novo usando o -D @types/libName
 * Pode baixar o typescript e libs com o @types apenas em desenvolvimento pois não é necessário utiliza-los em produção
-* Para criar o arquivo configuravel do ts use tsc *init
+* Para criar o arquivo configuravel do ts utilize tsc --init
 * Para criar uma build .ts para .js use tsc
 * Para mudar o local do arquivo gerado pelo typescript descomente "outDir" e coloque o caminho desejado
 * Para inicar o app use node dist/index.js
